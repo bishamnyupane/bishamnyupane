@@ -8,7 +8,7 @@ I'm **Bisham Neupane**,
 
 ### 🚀 About Me
 
-- 🎓 Software Engineering Graduate at NCIT, Nepal  
+- 🎓 Software Engineering Graduate from NCIT, Nepal  
 - 💻 Full-stack developer (React, Node.js,Express.js,MongoDB)  
 - 📊 Interested in Data Science & Data Engineering  
 - 🧠 Passionate about system design and scalable backend development  
