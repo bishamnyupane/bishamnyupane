@@ -35,15 +35,7 @@ MongoDB, MySQL, PostgreSQL
 Git, GitHub, Postman, VS Code  
 
 ---
-
-### 📈 Goals
-
-- Get internship as a Full-Stack / Backend Developer  
-- Move into Data Engineering / Data Science roles  
-- Contribute to open-source projects  
-- Build production-level scalable systems  
-
----
+ 
 
 
 
